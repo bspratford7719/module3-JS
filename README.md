@@ -14,3 +14,4 @@ SO THAT I can create a strong password that provides greater security
 Looking for an easy way to think of a complex password? Utilize this password generator and you can decide if you need upper & lower case letters to using special characters.
 
 ## Screenshot:
+![image](https://user-images.githubusercontent.com/92769029/159397120-132048f8-9923-47db-9267-f55ab67b8eb9.png)
